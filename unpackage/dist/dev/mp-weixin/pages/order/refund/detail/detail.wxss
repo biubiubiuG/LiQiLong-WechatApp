@@ -1,0 +1,8 @@
+
+.order-refund-detail .btn-red {
+	height: 88rpx;
+	line-height: 88rpx;
+	border-radius: 44rpx;
+	box-shadow: 0 8rpx 16rpx 0 rgba(226, 35, 26, .6);
+}
+

@@ -1,0 +1,4 @@
+
+.mpservice-wrap .mp-image{ width: 560rpx; margin-top: 40rpx;}
+.mpservice-wrap .mp-image image{ width: 100%;}
+
